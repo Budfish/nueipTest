@@ -1,0 +1,13 @@
+C:\Users\budfish\source\repos\nueipTest\nueipTest\bin\Debug\nueipTest.exe.config
+C:\Users\budfish\source\repos\nueipTest\nueipTest\bin\Debug\nueipTest.exe
+C:\Users\budfish\source\repos\nueipTest\nueipTest\bin\Debug\nueipTest.pdb
+C:\Users\budfish\source\repos\nueipTest\nueipTest\obj\Debug\nueipTest.csproj.CoreCompileInputs.cache
+C:\Users\budfish\source\repos\nueipTest\nueipTest\obj\Debug\nueipTest.exe
+C:\Users\budfish\source\repos\nueipTest\nueipTest\obj\Debug\nueipTest.pdb
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\bin\Debug\nueipTest.exe.config
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\bin\Debug\nueipTest.exe
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\bin\Debug\nueipTest.pdb
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\obj\Debug\nueipTest.csproj.AssemblyReference.cache
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\obj\Debug\nueipTest.csproj.CoreCompileInputs.cache
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\obj\Debug\nueipTest.exe
+C:\Users\budfish\Documents\github\nueipTest\nueipTest\obj\Debug\nueipTest.pdb
